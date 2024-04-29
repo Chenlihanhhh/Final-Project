@@ -1,0 +1,1 @@
+This project is a graduation project on the classification of diabetic ophthalmopathy, including the training results of multiple models, and GUI. The main.py file is the GUI for the project and the other notebook for model training
